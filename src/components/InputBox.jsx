@@ -15,7 +15,6 @@ function InputBox({
           <label htmlFor={amountInputId} className="text-zinc-500">
             {label}
           </label>
-
           <input
             type="number"
             id={amountInputId}
